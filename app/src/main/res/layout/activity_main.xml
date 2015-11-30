@@ -1,0 +1,12 @@
+<com.example.slidemenu.ui.widget.SlideMenu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/slideMenu"
+    android:background="@mipmap/bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include layout="@layout/layout_menu"/>
+
+    <include layout="@layout/layout_main"/>
+
+</com.example.slidemenu.ui.widget.SlideMenu>
